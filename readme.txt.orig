@@ -1,0 +1,6 @@
+test git
+<<<<<<< HEAD
+second comment from client
+=======
+second commit
+>>>>>>> 578f739470b01ba4ca54d20b0e1189bbe11800be
